@@ -1,6 +1,11 @@
 <div align="center">
   
-  <!-- Animated Pixel Art Banner (SVG dengan CSS Animation - Inline) -->
+  <!-- Animated Pixel Art Banner -->
+  <!-- Opsi 1: GIF Animasi (Convert MP4 ke GIF, lalu upload ke repository) -->
+  <img src="https://raw.githubusercontent.com/MDwihardikKPutra/MDwihardikKPutra/master/banner.gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/>
+  
+  <!-- Opsi 2: SVG Animasi (Uncomment di bawah jika ingin pakai SVG) -->
+  <!--
   <svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
     <style>
       @keyframes float {
@@ -74,9 +79,7 @@
       FullStack Developer
     </text>
   </svg>
-  
-  <!-- Alternatif: GIF Animasi (Upload banner.gif ke repository) -->
-  <!-- <img src="https://raw.githubusercontent.com/MDwihardikKPutra/MDwihardikKPutra/master/banner.gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/> -->
+  -->
   
   <h1>Hi, I'm Dyko Putra 👋</h1>
   <h3>A FullStack Developer in making 🚀</h3>
