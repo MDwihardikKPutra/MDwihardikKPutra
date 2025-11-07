@@ -3,8 +3,8 @@
   <!-- Animated Pixel Art Banner -->
   <img src="https://raw.githubusercontent.com/MDwihardikKPutra/MDwihardikKPutra/master/diko.gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/>
   
-  <h1 style="font-family: 'Courier New', Courier, monospace; letter-spacing: 2px;">Hi, I'm Dyko Putra 👋</h1>
-  <h3 style="font-family: 'Courier New', Courier, monospace; letter-spacing: 1px;">A FullStack Developer in making 🚀</h3>
+  <h1 style="font-family: 'Courier New', Courier, monospace; letter-spacing: 2px;">Hi, I'm Dyko Putra </h1>
+  <h3 style="font-family: 'Courier New', Courier, monospace; letter-spacing: 1px;">A FullStack Developer in making </h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=MDwihardikKPutra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
