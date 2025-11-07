@@ -1,8 +1,7 @@
 <div align="center">
   
   <!-- Animated Pixel Art Banner -->
-  <!-- Opsi 1: GIF Animasi (Convert MP4 ke GIF, lalu upload ke repository) -->
-  <img src="https://raw.githubusercontent.com/MDwihardikKPutra/MDwihardikKPutra/master/banner.gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/>
+  <img src="https://raw.githubusercontent.com/MDwihardikKPutra/MDwihardikKPutra/master/diko.gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/>
   
   <!-- Opsi 2: SVG Animasi (Uncomment di bawah jika ingin pakai SVG) -->
   <!--
