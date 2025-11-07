@@ -3,8 +3,8 @@
   <!-- Pixel Art GIF Banner -->
   <img src="https://raw.githubusercontent.com/MDwihardikKPutra/MDwihardikKPutra/main/banner.gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/>
   
-  <h1>Hi, I'm [Your Name] 👋</h1>
-  <h3>A [Your Role] in making 🚀</h3>
+  <h1>Hi, I'm Dyko Putra 👋</h1>
+  <h3>A FullStack Developer in making 🚀</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=MDwihardikKPutra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -17,9 +17,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate learner who loves to explore new technologies and solve real-life problems. Currently focused on **[Your Focus Areas]**.
+I'm a newbie FullStack Developer who loves to explore new technologies and solve real-life problems. Currently learning and building projects to improve my skills in web development.
 
-🔭 Working on **[Your Current Project]** | 🌱 Learning **[What You're Learning]** | 💬 Ask me about **[Your Expertise]**
+🔭 Working on **building my portfolio** | 🌱 Learning **FullStack Development** | 💬 Ask me about **anything, I'm still learning!**
 
 ---
 
