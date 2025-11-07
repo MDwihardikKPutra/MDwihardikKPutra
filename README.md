@@ -3,8 +3,8 @@
   <!-- Animated Pixel Art Banner -->
   <img src="https://raw.githubusercontent.com/MDwihardikKPutra/MDwihardikKPutra/master/diko.gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/>
   
-  <h1>Hi, I'm Dyko Putra 👋</h1>
-  <h3>A FullStack Developer in making 🚀</h3>
+  <h1 style="font-family: 'Courier New', Courier, monospace; letter-spacing: 2px;">Hi, I'm Dyko Putra 👋</h1>
+  <h3 style="font-family: 'Courier New', Courier, monospace; letter-spacing: 1px;">A FullStack Developer in making 🚀</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=MDwihardikKPutra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -15,15 +15,19 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 style="font-family: 'Courier New', Courier, monospace; letter-spacing: 1px;">👨‍💻 About Me</h2>
+
+<p style="font-family: 'Courier New', Courier, monospace; letter-spacing: 0.5px;">
 
 I'm a newbie FullStack Developer who loves to explore new technologies and solve real-life problems. Currently learning and building projects to improve my skills in web development.
 
 🔭 Working on **building my portfolio** | 🌱 Learning **FullStack Development** | 💬 Ask me about **anything, I'm still learning!**
 
+</p>
+
 ---
 
-## 🛠️ Technology Stack
+<h2 style="font-family: 'Courier New', Courier, monospace; letter-spacing: 1px;">🛠️ Technology Stack</h2>
 
 <div align="center">
   
@@ -39,7 +43,7 @@ I'm a newbie FullStack Developer who loves to explore new technologies and solve
 
 ---
 
-## 📊 GitHub Stats
+<h2 style="font-family: 'Courier New', Courier, monospace; letter-spacing: 1px;">📊 GitHub Stats</h2>
 
 <div align="center">
   
@@ -51,7 +55,7 @@ I'm a newbie FullStack Developer who loves to explore new technologies and solve
 
 ---
 
-## 🤝 Connect with Me
+<h2 style="font-family: 'Courier New', Courier, monospace; letter-spacing: 1px;">🤝 Connect with Me</h2>
 
 <div align="center">
   
