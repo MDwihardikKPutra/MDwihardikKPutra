@@ -1,11 +1,10 @@
 <div align="center">
   
-  <!-- Pixel Art GIF Banner -->
-  <!-- Upload file banner.gif ke repository dan uncomment baris di bawah ini -->
-  <img src="https://raw.githubusercontent.com/MDwihardikKPutra/MDwihardikKPutra/main/banner.gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/>
+  <!-- Animated Pixel Art Banner (SVG dengan CSS Animation) -->
+  <img src="https://raw.githubusercontent.com/MDwihardikKPutra/MDwihardikKPutra/main/banner-animated.svg" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/>
   
-  <!-- Atau gunakan direct URL dari Tenor (ganti URL di bawah) -->
-  <!-- <img src="https://media.tenor.com/images/YOUR_GIF_HASH/tenor.gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/> -->
+  <!-- Alternatif: GIF Animasi (Upload banner.gif ke repository) -->
+  <!-- <img src="https://raw.githubusercontent.com/MDwihardikKPutra/MDwihardikKPutra/main/banner.gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/> -->
   
   <h1>Hi, I'm Dyko Putra 👋</h1>
   <h3>A FullStack Developer in making 🚀</h3>
