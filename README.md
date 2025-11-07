@@ -1,4 +1,8 @@
 <div align="center">
+  
+  <!-- Pixel Art GIF Banner -->
+  <img src="https://raw.githubusercontent.com/MDwihardikKPutra/MDwihardikKPutra/main/banner.gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/>
+  
   <h1>Hi, I'm [Your Name] 👋</h1>
   <h3>A [Your Role] in making 🚀</h3>
   
