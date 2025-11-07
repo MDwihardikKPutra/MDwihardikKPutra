@@ -1,7 +1,11 @@
 <div align="center">
   
-  <!-- Pixel Art GIF Banner from Tenor -->
-  <div class="tenor-gif-embed" data-postid="11560863328476735300" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/enviroment-environment-day-pixel-art-gif-11560863328476735300">Enviroment Environment Day GIF</a>from <a href="https://tenor.com/search/enviroment-gifs">Enviroment GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <!-- Pixel Art GIF Banner -->
+  <!-- Upload file banner.gif ke repository dan uncomment baris di bawah ini -->
+  <img src="https://raw.githubusercontent.com/MDwihardikKPutra/MDwihardikKPutra/main/banner.gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/>
+  
+  <!-- Atau gunakan direct URL dari Tenor (ganti URL di bawah) -->
+  <!-- <img src="https://media.tenor.com/images/YOUR_GIF_HASH/tenor.gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/> -->
   
   <h1>Hi, I'm Dyko Putra 👋</h1>
   <h3>A FullStack Developer in making 🚀</h3>
