@@ -1,3 +1,6 @@
+## 👋 Hi, I'm Diko!
+
+A newbie fullstack developer who loves building things for the web.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dykoputra_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mokhamad-dwihardik-kusuma-putra-470854190/) 
