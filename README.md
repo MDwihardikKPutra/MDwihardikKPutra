@@ -43,7 +43,7 @@ currently working on my portfolio while deepening skills across the web stack.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MDwihardikKPutra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+[<img height="160" src="https://github-readme-stats.vercel.app/api?username=MDwihardikKPutra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true"/>](https://github-readme-stats.vercel.app/api?username=MDwihardikKPutra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github)
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDwihardikKPutra&layout=compact&langs_count=5&theme=tokyonight&hide_border=true"/>
 
 <br/>
