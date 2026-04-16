@@ -1,59 +1,15 @@
-<div align="center">
 
-<br/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dykoputra_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mokhamad-dwihardik-kusuma-putra-470854190/) 
 
-```
-  ___        _         ____        _
- |   \ _  _ | |__ ___ |  _ \ _  _| |_ _ _ __ _
- | |) | || || / // _ \| |) | || |  _| '_/ _` |
- |___/ \_,_||_\_\\___/|____/ \_,_|\__|_| \__,_|
-```
-
-**fullstack developer in making**
-
-![Profile views](https://komarev.com/ghpvc/?username=MDwihardikKPutra&label=profile+views&color=6e6e6e&style=flat)
-
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MDwihardikKPutra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MDwihardikKPutra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MDwihardikKPutra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=MDwihardikKPutra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### about
-
-newbie fullstack dev who loves exploring new tech and building things that solve real problems.
-currently working on my portfolio while deepening skills across the web stack.
-
-- working on **my portfolio**
-- learning **fullstack development**
-- ask me about **anything — still learning!**
-
----
-
-### stack
-
-| | |
-|---|---|
-| **languages** | JavaScript · TypeScript · Python · Java · C / C++ |
-| **frontend** | React · Tailwind · Bootstrap · HTML / CSS |
-| **backend** | Node.js · Express · MongoDB · MySQL |
-| **tools** | Git · GitHub · VS Code |
-
----
-
-### github stats
-
-<div align="center">
-
-[<img height="160" src="https://github-readme-stats.vercel.app/api?username=MDwihardikKPutra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true"/>](https://github-readme-stats.vercel.app/api?username=MDwihardikKPutra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github)
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDwihardikKPutra&layout=compact&langs_count=5&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-streak-stats.demolab.com/?user=MDwihardikKPutra&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-### connect
-
-[LinkedIn](https://linkedin.com/in/mokhamad-dwihardik-kusuma-putra-470854190) · [Twitter](https://twitter.com/MDwihardikKPutra) · [Instagram](https://instagram.com/MDwihardikKPutra) · [Email](mailto:YOUR_EMAIL)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
